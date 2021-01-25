@@ -1,0 +1,22 @@
+Destination location:
+      C:\Program Files (x86)\WinSCP
+
+Setup type:
+      Typical installation
+
+Selected components:
+      WinSCP application
+      Drag & drop shell extension (allows direct downloads, may require restart)
+      Pageant (SSH authentication agent)
+      PuTTYgen (key generator)
+      Translations
+
+Additional tasks:
+      Enable automatic check for application updates (recommended)
+         Enable collecting anonymous usage statistics
+      Create a desktop icon
+      Add upload shortcut to Explorer's 'Send to' context menu
+      Register to handle URL addresses
+
+Initial user settings (can be changed later)
+      Commander
